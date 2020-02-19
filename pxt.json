@@ -1,0 +1,22 @@
+{
+    "name": "rocket",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "SW01": "github:xinabox/pxt-sw01#v1.0.23",
+        "BMP280": "github:makecode-extensions/bmp280#53efdf7c02f66fa5e5287c640712ffa398f2894b"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
